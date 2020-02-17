@@ -1,0 +1,33 @@
+
+body{
+background-image: url(../imagens/pizza.gif);
+background-position-x: center;
+background-size: 1500px;
+}
+
+#h1{
+  color: white;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: 40px;
+  text-align: center;
+}
+
+#sabor{
+  border-radius: 20px;
+}
+
+
+#h3{
+  color: white;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: 18px;
+}
+
+.btn{
+  margin-top: 15px;
+}
+
+#pizza{
+  height: 150px;  
+  width: 100%;
+}
